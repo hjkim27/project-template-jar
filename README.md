@@ -1,1 +1,1 @@
-ㅓjar 기본 project template 추가
+jar 기본 project template 추가
